@@ -1,0 +1,240 @@
+*{margin: 0px;
+    padding: 0px;
+    
+}
+header{
+    
+}
+.head{ max-width: 1200px;
+    margin: auto;
+    
+}
+.head .logo{ float: left;
+    margin-top: 25px
+    
+}
+.logo img{ padding: 20px;
+    cursor: pointer
+    
+}
+.logo img:hover{
+    opacity: 0.5
+}
+.head .menu{
+    
+}
+.menu ul{ margin-left: 600px
+    
+}
+.menu ul li{    float: left;
+    list-style-type: none;
+    
+    
+}
+.menu ul li a{    text-decoration: none;
+    padding: 20px 20px; margin: 20px 12px; display: block; text-transform: uppercase;
+    font-family: 'Abel', sans-serif;
+
+    font-size: 22px;
+    color: black
+}
+.menu ul li a:hover{
+    color: darksalmon
+}
+/*Header End*/
+/*Meader start*/
+.photo{
+    width: 1200px;
+    margin: auto;
+}
+.photo img{
+    width: 1200px;
+        margin-top: 50px
+
+}
+
+.meader{
+max-width: 1000px;
+    margin: auto;
+    margin-top: 80px;
+    height: 950px
+}
+.mead{
+    
+}
+.mead span {
+  margin-top: 10px;
+    margin-bottom: 10px;
+     opacity: 0.5;
+             font-family: 'Abel', sans-serif;
+
+}
+.mead h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px
+    
+}
+.mead p{
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 70px;
+ 
+
+}
+.box{
+    margin-bottom: 100px;
+}
+.box article{
+    margin-bottom: 0px;
+    opacity: 0.5;
+            font-family: 'Abel', sans-serif;
+    display: inline;
+    
+    
+
+}
+
+.total{ max-width: 1000px;
+    margin: auto;
+   overflow: hidden    ;
+    margin-bottom: 80px
+}
+.one{
+    max-width: 480px;
+    float:left
+}
+.one img{
+width: 475px;
+     border-radius: 10px;
+    cursor: pointer
+    
+}
+.total h5{ margin-top: 20px;
+    font-size: 18px; font-family: 'Abel', sans-serif;
+    opacity: 0.5;
+    
+    
+}
+.total a{
+    text-decoration: none;
+    font-size: 15px;
+    font-family:monospace
+}
+.total img:hover{
+    opacity: 0.9
+}
+.one h2{
+    margin: 20px 0px;
+    font-size: 32px;
+    font-weight: normal;
+    font-family:sans-serif
+}
+.one p{font-size: 18px;
+    text-align: justify;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.two{
+    max-width: 480px;
+    float:right;
+    margin-left: 20px
+}
+.two img{
+width: 475px;
+    border-radius: 10px;
+    cursor: pointer
+    
+}
+.two h5{
+    
+}
+.two h2{ margin: 20px 0px;
+    font-size: 32px;
+    font-weight: normal;
+     font-family:sans-serif
+    
+}
+.two p{
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Dancing Script', cursive;
+}
+/*meader End*/
+/*Footer Start*/
+footer{
+   
+    background-color:#F0F0F0;
+    height: 90px;
+}
+.foot{
+     max-width:1000px;
+    margin: auto;
+    margin-top: 150px;
+}
+.foot .privacy{ float: left;margin-top: 30px;
+}
+.privacy a{   text-decoration: none; padding-right: 15px;
+    font-size: 18px;font-weight: bold; font-family: 'Abel', sans-serif; color: black
+    
+}
+.privacy a:hover{
+    color: darksalmon;
+}
+.follow{ float: right; margin-top: 30px
+    
+}
+.follow p{
+    margin-top: 30px;
+    display: inline;
+    margin-right: 8px;
+    font-weight: bold;
+    
+}
+.follow a{
+    margin-top: 30px;padding-left: 5px;
+    color: black;
+    border-radius: 50%;
+    
+}
+follow i{
+    
+}
+.follow a:hover{ color:  white;background-color: black ; 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
